@@ -3,13 +3,25 @@
 }
 
 .mySlides {display: none;}
-img {vertical-align: middle;}
+.img {vertical-align: middle;}
 
 /* Контейнер слайд-шоу */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 600px;
   position: relative;
   margin: auto;
+}
+
+/*для кнопки входа*/
+.but {
+    text-align: right;
+    margin-top: -30px;
+}
+
+/*для кнопки регистрации*/
+.but {
+    text-align: right;
+    margin-top: 10px;
 }
 
 /* Подпись текста */
