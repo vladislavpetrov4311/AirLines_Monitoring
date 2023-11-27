@@ -1,0 +1,59 @@
+ .form {
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-30%, -50%);
+        padding: 10px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+    }
+
+    .form input {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .form button {
+        width: 100%;
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+ .but2 {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(-190%, -50%);
+ }   
+
+ .but3 
+ {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+ }
+
+
+  .but4 
+ {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(55%, -50%);
+ }
+
+ .but5 
+ {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(550%, -50%);
+ }
