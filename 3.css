@@ -1,6 +1,6 @@
  .fut1 {
         position: absolute;
-        top: 110%;
+        top: 115%;
         left: 14%;
         transform: translate(-90%, -50%);
         background-color: #007bff;
@@ -9,7 +9,7 @@
 .fut2 {
 
        position: absolute;
-       top: 122%;
+       top: 127%;
        left: 23%;
        transform: translate(-90%, -50%);
        background-color: rgba(255, 255, 255, 0.8);
@@ -19,9 +19,51 @@
 
 .cl {
   position: absolute;
-  top: 131%;
+  top: 136%;
   left: 16%;
   transform: translate(-90%, -50%);
   width: 110px;
 
 }
+
+
+
+ .fut1_2 {
+        position: absolute;
+        top: 115%;
+        left: 52%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_2 {
+  position: absolute;
+  top: 130%;
+  left: 54%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_3 {
+        position: absolute;
+        top: 115%;
+        left: 90%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_3 {
+  position: absolute;
+  top: 129%;
+  left: 92%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
