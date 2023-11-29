@@ -37,3 +37,49 @@
         color: rgb(79, 213, 209);
 
 }
+
+
+.dop1 {
+
+position: absolute;
+        top: 42%;
+        left: 29%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+.dop2 {
+
+position: absolute;
+        top: 42%;
+        left: 44%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop3 {
+
+position: absolute;
+        top: 42%;
+        left: 59%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop4 {
+
+position: absolute;
+        top: 42%;
+        left: 74%;
+        transform: translate(-50%, -50%);
+        
+
+}
