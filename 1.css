@@ -1,3 +1,4 @@
+@media screen and (min-width: 1200px) {
 .center-text {
   text-align: center;
 }
@@ -12,17 +13,6 @@
   margin: auto;
 }
 
-/*для кнопки входа*/
-.but {
-    text-align: right;
-    margin-top: -30px;
-}
-
-/*для кнопки регистрации*/
-.but {
-    text-align: right;
-    margin-top: 10px;
-}
 
 /* Подпись текста */
 .text {
@@ -80,4 +70,5 @@
 /* На небольших экранах уменьшите размер текста */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
+}
 }

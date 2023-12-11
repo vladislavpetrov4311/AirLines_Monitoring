@@ -1,3 +1,4 @@
+ @media screen and (min-width: 1200px) {
  .fut1 {
         position: absolute;
         top: 115%;
@@ -10,7 +11,7 @@
 
        position: absolute;
        top: 127%;
-       left: 23%;
+       left: 26%;
        transform: translate(-90%, -50%);
        background-color: rgba(255, 255, 255, 0.8);
 
@@ -67,3 +68,10 @@
 }
 
 
+.footer{
+
+ background-color: rgb(63, 183, 180);
+
+}
+
+}

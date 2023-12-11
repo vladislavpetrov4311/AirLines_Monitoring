@@ -1,3 +1,4 @@
+ @media screen and (min-width: 1200px) {
  .form {
         position: absolute;
         top: 25%;
@@ -62,7 +63,7 @@
 .vhod{
 position: absolute;
         top: 15%;
-        left: 50%;
+        left: 40%;
         transform: translate(1500%, -600%);
 }
 
@@ -70,7 +71,7 @@ position: absolute;
 .but6 {
         position: absolute;
         top: 15%;
-        left: 50%;
+        left: 40%;
         transform: translate(900%, -180%);
 }
 
@@ -78,6 +79,7 @@ position: absolute;
 .but7 {
         position: absolute;
         top: 15%;
-        left: 50%;
+        left: 40%;
         transform: translate(620%, -160%);
+}
 }
