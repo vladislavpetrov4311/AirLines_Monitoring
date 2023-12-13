@@ -159,85 +159,7 @@
 }
 
 
-@media screen and (min-width: 768px) and (max-width: 830px)
-{
 
- .fut1 {
-        position: absolute;
-        top: 98%;
-        left: 14%;
-        transform: translate(-90%, -50%);
-        background-color: #007bff;
-    }
-
-.fut2 {
-       font-size: 0.9rem;
-       position: absolute;
-       top: 110%;
-       left: 37%;
-       transform: translate(-90%, -50%);
-       background-color: rgba(255, 255, 255, 0.8);
-
-}    
-
-
-.cl {
-  position: absolute;
-  top: 119%;
-  left: 16%;
-  transform: translate(-90%, -50%);
-  width: 110px;
-
-}
-
-
-
- .fut1_2 {
-        position: absolute;
-        top: 98%;
-        left: 52%;
-        transform: translate(-90%, -50%);
-        background-color: #007bff;
-    }
-
-
-.cl_2 {
-  position: absolute;
-  top: 113%;
-  left: 54%;
-  transform: translate(-90%, -50%);
-  width: 110px;
-
-}
-
-
-
- .fut1_3 {
-        position: absolute;
-        top: 98%;
-        left: 90%;
-        transform: translate(-90%, -50%);
-        background-color: #007bff;
-    }
-
-
-.cl_3 {
-  position: absolute;
-  top: 112%;
-  left: 92%;
-  transform: translate(-90%, -50%);
-  width: 110px;
-
-}
-
-
-.footer{
-
- background-color: rgb(63, 183, 180);
-
-}
-
-}
 
 @media screen and (min-width: 831px) and (max-width: 991px)
 {
@@ -320,3 +242,166 @@
 }
 
 
+@media screen and (min-width: 768px) and (max-width: 830px)
+{
+
+ .fut1 {
+        position: absolute;
+        top: 98%;
+        left: 14%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+.fut2 {
+       font-size: 0.9rem;
+       position: absolute;
+       top: 110%;
+       left: 37%;
+       transform: translate(-90%, -50%);
+       background-color: rgba(255, 255, 255, 0.8);
+
+}    
+
+
+.cl {
+  position: absolute;
+  top: 119%;
+  left: 16%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_2 {
+        position: absolute;
+        top: 98%;
+        left: 52%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_2 {
+  position: absolute;
+  top: 113%;
+  left: 54%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_3 {
+        position: absolute;
+        top: 98%;
+        left: 90%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_3 {
+  position: absolute;
+  top: 112%;
+  left: 92%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+.footer{
+
+ background-color: rgb(63, 183, 180);
+
+}
+
+}
+
+
+
+@media screen and (min-width: 576px) and (max-width: 767px)
+{
+
+ .fut1 {
+        position: absolute;
+        top: 98%;
+        left: 14%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+.fut2 {
+       font-size: 0.9rem;
+       position: absolute;
+       top: 110%;
+       left: 37%;
+       transform: translate(-90%, -50%);
+       background-color: rgba(255, 255, 255, 0.8);
+
+}    
+
+
+
+
+.cl {
+  position: absolute;
+  top: 119%;
+  left: 16%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_2 {
+        position: absolute;
+        top: 98%;
+        left: 52%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_2 {
+  position: absolute;
+  top: 113%;
+  left: 54%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_3 {
+        position: absolute;
+        top: 98%;
+        left: 90%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_3 {
+  position: absolute;
+  top: 112%;
+  left: 92%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+.footer{
+
+ background-color: rgb(63, 183, 180);
+
+}
+
+}
