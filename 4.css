@@ -168,3 +168,535 @@ position: absolute;
 
 
 }
+
+@media screen and (min-width: 992px) and (max-width: 1199px)
+{
+
+ .form_p {
+        position: absolute;
+        top: 20%;
+        left: 42%;
+        transform: translate(-30%, -50%);
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+    }
+
+    .form_p input {
+        width: 30%;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        border: none;
+    }
+
+    .form_p button {
+        width: 20%;
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+
+.dop {
+        position: absolute;
+        top: 35%;
+        left: 42%;
+        transform: translate(-50%, -50%);
+        font-size: 1.3rem;
+        color: rgb(79, 213, 209);
+
+}
+
+
+.dop1 {
+
+position: absolute;
+        top: 42%;
+        left: 22%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+.dop2 {
+
+position: absolute;
+        top: 42%;
+        left: 44%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop3 {
+
+position: absolute;
+        top: 42%;
+        left: 64%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop4 {
+
+position: absolute;
+        top: 42%;
+        left: 83%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+/*для нижнего футера
+*/
+
+ .fut1 {
+        position: absolute;
+        top: 75%;
+        left: 14%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+.fut2 {
+
+       position: absolute;
+       top: 87%;
+       left: 32%;
+       transform: translate(-90%, -50%);
+       background-color: rgba(255, 255, 255, 0.8);
+
+}    
+
+
+.cl {
+  position: absolute;
+  top: 96%;
+  left: 16%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_2 {
+        position: absolute;
+        top: 75%;
+        left: 52%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_2 {
+  position: absolute;
+  top: 90%;
+  left: 54%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_3 {
+        position: absolute;
+        top: 75%;
+        left: 90%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_3 {
+  position: absolute;
+  top: 89%;
+  left: 92%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+.footer{
+
+ background-color: rgb(63, 183, 180);
+ margin-top: 550px;
+
+}
+
+}
+
+
+@media screen and (min-width: 860px) and (max-width: 991px)
+{
+
+ .form_p {
+        position: absolute;
+        top: 20%;
+        left: 45%;
+        transform: translate(-30%, -50%);
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+    }
+
+    .form_p input {
+        width: 25%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        border: none;
+    }
+
+    .form_p button {
+        width: 15%;
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+
+.dop {
+        position: absolute;
+        top: 35%;
+        left: 45%;
+        transform: translate(-50%, -50%);
+        font-size: 1.3rem;
+        color: rgb(79, 213, 209);
+
+}
+
+
+.dop1 {
+
+position: absolute;
+        top: 43%;
+        left: 17%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+.dop2 {
+
+position: absolute;
+        top: 43%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop3 {
+
+position: absolute;
+        top: 43%;
+        left: 66%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop4 {
+
+position: absolute;
+        top: 43%;
+        left: 86%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+/*для нижнего футера
+*/
+
+ .fut1 {
+        position: absolute;
+        top: 75%;
+        left: 14%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+.fut2 {
+       font-size: 1.0rem;
+       position: absolute;
+       top: 87%;
+       left: 36%;
+       transform: translate(-90%, -50%);
+       background-color: rgba(255, 255, 255, 0.8);
+
+}    
+
+
+.cl {
+  position: absolute;
+  top: 96%;
+  left: 16%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_2 {
+        position: absolute;
+        top: 75%;
+        left: 52%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_2 {
+  position: absolute;
+  top: 90%;
+  left: 54%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_3 {
+        position: absolute;
+        top: 75%;
+        left: 90%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_3 {
+  position: absolute;
+  top: 89%;
+  left: 92%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+.footer{
+
+ background-color: rgb(63, 183, 180);
+ margin-top: 550px;
+
+}
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 859px)
+{
+
+ .form_p {
+        position: absolute;
+        top: 20%;
+        left: 45%;
+        transform: translate(-30%, -50%);
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+    }
+
+    .form_p input {
+        width: 25%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        border: none;
+    }
+
+    .form_p button {
+        width: 15%;
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+
+
+.dop {
+        position: absolute;
+        top: 35%;
+        left: 45%;
+        transform: translate(-50%, -50%);
+        font-size: 1.3rem;
+        color: rgb(79, 213, 209);
+
+}
+
+
+.dop1 {
+
+position: absolute;
+        top: 43%;
+        left: 17%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+.dop2 {
+
+position: absolute;
+        top: 43%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop3 {
+
+position: absolute;
+        top: 43%;
+        left: 66%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+.dop4 {
+
+position: absolute;
+        top: 43%;
+        left: 86%;
+        transform: translate(-50%, -50%);
+        
+
+}
+
+
+
+/*для нижнего футера
+*/
+
+ .fut1 {
+        position: absolute;
+        top: 75%;
+        left: 14%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+.fut2 {
+       font-size: 0.9rem;
+       position: absolute;
+       top: 87%;
+       left: 36%;
+       transform: translate(-90%, -50%);
+       background-color: rgba(255, 255, 255, 0.8);
+
+}    
+
+
+.cl {
+  position: absolute;
+  top: 96%;
+  left: 16%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_2 {
+        position: absolute;
+        top: 75%;
+        left: 52%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_2 {
+  position: absolute;
+  top: 90%;
+  left: 54%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+
+ .fut1_3 {
+        position: absolute;
+        top: 75%;
+        left: 90%;
+        transform: translate(-90%, -50%);
+        background-color: #007bff;
+    }
+
+
+.cl_3 {
+  position: absolute;
+  top: 89%;
+  left: 92%;
+  transform: translate(-90%, -50%);
+  width: 110px;
+
+}
+
+
+.footer{
+
+ background-color: rgb(63, 183, 180);
+ margin-top: 550px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

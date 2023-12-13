@@ -83,3 +83,279 @@ position: absolute;
         transform: translate(620%, -160%);
 }
 }
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px)
+{
+
+
+ .form {
+        position: absolute;
+        top: 25%;
+        left: 40%;
+        transform: translate(-30%, -50%);
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+    }
+
+    .form input {
+        width: 25%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .form button {
+        width: 20%;
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+ .but2 {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(-190%, -50%);
+ }   
+
+ .but3 
+ {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+ }
+
+
+  .but4 
+ {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(55%, -50%);
+ }
+
+ .but5 
+ {
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(550%, -50%);
+ }
+
+
+.vhod{
+position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(1500%, -600%);
+}
+
+ /*для кнопки входа*/
+.but6 {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(900%, -180%);
+}
+
+/*для кнопки регистрации*/
+.but7 {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(620%, -160%);
+}
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 850px)
+{
+
+
+ .form {
+        position: absolute;
+        top: 25%;
+        left: 26%;
+        transform: translate(-30%, -50%);
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+    }
+
+    .form input {
+        width: 25%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .form button {
+        width: 20%;
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+ .but2 {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(-190%, -50%);
+ }   
+
+ .but3 
+ {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(-50%, -50%);
+ }
+
+
+  .but4 
+ {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(55%, -50%);
+ }
+
+ .but5 
+ {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(550%, -50%);
+ }
+
+
+.vhod{
+position: absolute;
+        top: 21%;
+        left: 13%;
+        transform: translate(1500%, -600%);
+}
+
+ /*для кнопки входа*/
+.but6 {
+        position: absolute;
+        top: 22%;
+        left: 13%;
+        transform: translate(900%, -180%);
+}
+
+/*для кнопки регистрации*/
+.but7 {
+        position: absolute;
+        top: 22%;
+        left: 13%;
+        transform: translate(620%, -160%);
+}
+
+
+}
+
+@media screen and (min-width: 851px) and (max-width: 991px)
+{
+
+
+ .form {
+        position: absolute;
+        top: 25%;
+        left: 26%;
+        transform: translate(-30%, -50%);
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+    }
+
+    .form input {
+        width: 25%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: none;
+    }
+
+    .form button {
+        width: 20%;
+        padding: 10px;
+        border-radius: 20px;
+        border: none;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+    }
+
+ .but2 {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(-190%, -50%);
+ }   
+
+ .but3 
+ {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(-50%, -50%);
+ }
+
+
+  .but4 
+ {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(55%, -50%);
+ }
+
+ .but5 
+ {
+        position: absolute;
+        top: 15%;
+        left: 32%;
+        transform: translate(550%, -50%);
+ }
+
+
+.vhod{
+position: absolute;
+        top: 21%;
+        left: 21%;
+        transform: translate(1500%, -600%);
+}
+
+ /*для кнопки входа*/
+.but6 {
+        position: absolute;
+        top: 22%;
+        left: 21%;
+        transform: translate(900%, -180%);
+}
+
+/*для кнопки регистрации*/
+.but7 {
+        position: absolute;
+        top: 22%;
+        left: 21%;
+        transform: translate(620%, -160%);
+}
+
+
+}
+
+
