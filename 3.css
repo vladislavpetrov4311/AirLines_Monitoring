@@ -18,6 +18,10 @@
 }    
 
 
+.br1{
+     display: none;  
+}
+
 .cl {
   position: absolute;
   top: 136%;
@@ -99,6 +103,10 @@
 
 }    
 
+
+.br1{
+     display: none;  
+}
 
 .cl {
   position: absolute;
@@ -183,6 +191,10 @@
 }    
 
 
+.br1{
+     display: none;  
+}
+
 .cl {
   position: absolute;
   top: 119%;
@@ -264,6 +276,10 @@
 }    
 
 
+.br1{
+     display: none;  
+}
+
 .cl {
   position: absolute;
   top: 119%;
@@ -329,8 +345,8 @@
 
  .fut1 {
         position: absolute;
-        top: 98%;
-        left: 14%;
+        top: 115%;
+        left: 55%;
         transform: translate(-90%, -50%);
         background-color: #007bff;
     }
@@ -338,20 +354,22 @@
 .fut2 {
        font-size: 0.9rem;
        position: absolute;
-       top: 110%;
-       left: 37%;
+       top: 127%;
+       left: 65%;
        transform: translate(-90%, -50%);
        background-color: rgba(255, 255, 255, 0.8);
 
 }    
 
 
-
+.br1{
+     display: block;  
+}
 
 .cl {
   position: absolute;
-  top: 119%;
-  left: 16%;
+  top: 138%;
+  left: 58%;
   transform: translate(-90%, -50%);
   width: 110px;
 
@@ -361,8 +379,8 @@
 
  .fut1_2 {
         position: absolute;
-        top: 98%;
-        left: 52%;
+        top: 85%;
+        left: 22%;
         transform: translate(-90%, -50%);
         background-color: #007bff;
     }
@@ -370,8 +388,8 @@
 
 .cl_2 {
   position: absolute;
-  top: 113%;
-  left: 54%;
+  top: 102%;
+  left: 26%;
   transform: translate(-90%, -50%);
   width: 110px;
 
@@ -381,8 +399,8 @@
 
  .fut1_3 {
         position: absolute;
-        top: 98%;
-        left: 90%;
+        top: 85%;
+        left: 65%;
         transform: translate(-90%, -50%);
         background-color: #007bff;
     }
@@ -390,8 +408,8 @@
 
 .cl_3 {
   position: absolute;
-  top: 112%;
-  left: 92%;
+  top: 100%;
+  left: 68%;
   transform: translate(-90%, -50%);
   width: 110px;
 
