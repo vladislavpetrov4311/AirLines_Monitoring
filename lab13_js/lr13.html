@@ -1,0 +1,89 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+
+
+<body bgcolor="#2F4F4F">
+
+
+
+<h1>Лабораторная 13. Циклические алгоритмы. Вариант 16. Петров В. 831-М71</h1>
+<p><b>Цель работы:</b> научиться разрабатывать скрипты на языке JavaScript, реализующие циклические алгоритмы обработки данных с использованием циклов for, while, do..while.</p>
+
+<p><b>Задача №1</b></p>
+
+<p><b>Формулировка условия:</b></p>
+<p>Найти n-ный член (n>2) числовой последовательности, заданной соотношениями: x_n=2x_(n-1) - 3x_(n-2), x_0 = 0, x_1 = 9.</p>
+
+
+<form id="myForm">
+    <table>
+      <tr>
+      	<th>Входные данные</th>
+      	<th>Выходные данные</th>
+      </tr>
+      <tr>
+        <td>Тест1 <input type="text" name="row1col2"></td>
+        <td><input type="text" id="row1col3"> </td>
+      </tr>
+      <tr>
+        <td>Тест2 <input type="text" name="row2col2"></td>
+        <td>  <input type="text" id="row2col3"> </td>
+      </tr>
+      <tr>
+        <td>Тест3 <input type="text" name="row3col2"></td>
+       <td>  <input type="text" id="row3col3"> </td>
+      </tr>
+    </table>
+    <input type="submit" value="Запустить скрипт на исполнение">
+    <br>
+    <input type="button" value="Показать программный код" onclick="document.location='lr13_1.js'">
+  </form>
+
+
+
+
+
+
+<br>
+<p><b>Задача №2 и №3</b></p>
+
+<p><b>Формулировка условия:</b></p>
+<p>Найти значение минимального положительного члена числовой последовательности, заданной следующими соотношениями: x_n = x_(n-1) + x_(n-3) + 100, x_1 = x_2 = x_3 = -99.</p>
+
+<form id="myForm2">
+    <table>
+      <tr>
+        <th>Входные данные</th>
+        <th>Выходные данные</th>
+      </tr>
+      <tr>
+        <td>Тест1 <input type="text" name="r1c2"></td>
+        <td><input type="text" id="r1c3"> </td>
+      </tr>
+      <tr>
+        <td>Тест2 <input type="text" name="r2c2"></td>
+        <td><input type="text" id="r2c3"> </td>
+      </tr>
+      <tr>
+        <td>Тест3 <input type="text" name="r3c2"></td>
+       <td><input type="text" id="r3c3"> </td>
+      </tr>
+    </table>
+    <input type="submit" value="Запустить скрипт на исполнение">
+    <br>
+    <input type="button" value="Показать программный код" onclick="document.location='lr13_2.js'">
+  </form>
+
+
+
+<script src="lr13_1.js"></script>
+<script src="lr13_2.js"></script>
+
+
+</body>
+
+</html>
