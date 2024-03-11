@@ -1,25 +1,18 @@
-from flask import Flask
-from flask import render_template
-from flask import  url_for
-
+from flask import Flask, redirect, url_for, request
 app = Flask(__name__)
 
-menu = ["Установка", "Первое приложение", "Обратная связь"]
-@app.route("/")
-def index():
- return render_template('index.html', menu = menu)
-@app.route("/base")
-def base():
- return render_template('base.html', title = "О сайте", menu = menu)
+@app.route('/success/<name>')
+def success(name):
+   return 'welcome %s' % name
 
-@app.route("/profile/<username>")
-def profile(username):
- return f"Пользователь: {username}"
+@app.route('/login',methods = ['POST', 'GET'])
+def login():
+   if request.method == 'POST':
+      user = request.form['nm']
+      return redirect(url_for('success',name = user))
+   else:
+      user = request.args.get('nm')
+      return redirect(url_for('success',name = user))
 
- with app.test_request_context():
-  print(url_for('index'))
-  print(url_for('base'))
-  print(url_for('profile', username="selfedu"))
-
-if __name__ == "__main__":
- app.run(debug=True)
+if __name__ == '__main__':
+   app.run(debug = True)

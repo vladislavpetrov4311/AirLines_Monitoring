@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<link type="text/css" href="{{ url_for('static', filename='css/styles.css')}}"
+rel="stylesheet" />
+<li><a href="{{m.url}}">{{m.name}}</a></li>
 <head>
 {% block title -%}
 {% if title %}
@@ -13,6 +16,8 @@
 {% block content -%}
 {%- block mainmenu -%}
 <ul>
+    <div class="clear"></div>
+<div class="content">
 {% for m in menu -%}
 <li>{{m}}</li>
 {% endfor -%}
